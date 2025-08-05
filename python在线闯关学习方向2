@@ -1,0 +1,103 @@
+作为爬虫开发者，Python 的实战能力至关重要。以下是 **10个适合爬虫程序员进阶的Python在线闯关学习平台**，涵盖基础语法、爬虫专项、反爬对抗及数据清洗等核心技能，并附上网址：
+
+---
+
+### **1. CodeSignal（算法+爬虫逻辑训练）**
+**网址**: [https://codesignal.com/](https://codesignal.com/)  
+**特点**：  
+- 硅谷大厂编码题库，侧重算法和数据处理能力  
+- 适合练习爬虫中的 **URL去重、数据解析算法**（如XPath优化）  
+**推荐关卡**：`Arcade` 模式中的字符串处理题目  
+
+---
+
+### **2. Codewars（爬虫小任务闯关）**
+**网址**: [https://www.codewars.com/](https://www.codewars.com/)  
+**特点**：  
+- 社区提交的实战题目，搜索关键词 `web-scraping` 或 `BeautifulSoup`  
+- 例如：**模拟登录破解、动态数据提取**等微型项目  
+**示例题目**：  
+  - *"Parse HTML tables without libraries"*  
+  - *"Bypass CAPTCHA simulation"*  
+
+---
+
+### **3. ScrapingClub（爬虫专项挑战）**
+**网址**: [https://scrapingclub.com/exercise/](https://scrapingclub.com/exercise/)  
+**特点**：  
+- **专为爬虫设计**的实战关卡，从简单到复杂  
+- 包含 **AJAX渲染、验证码绕过、Session维持** 等真实场景  
+**经典关卡**：  
+  - 动态分页抓取（Pagination）  
+  - 需要Cookie的私密数据抓取  
+
+---
+
+### **4. HackTheBox（Web安全与爬虫结合）**
+**网址**: [https://www.hackthebox.com/](https://www.hackthebox.com/)  
+**特点**：  
+- 通过渗透测试思维突破反爬机制（如JWT破解、API逆向）  
+- 适合学习 **Headers伪造、IP轮换、JS逆向** 等高阶技巧  
+**推荐模块**：`Challenges` → `Web` 分类  
+
+---
+
+### **5. LeetCode（面试向爬虫题库）**
+**网址**: [https://leetcode.com/](https://leetcode.com/)  
+**技巧**：  
+- 搜索标签 `web-scraping` 或 `string-manipulation`  
+- 高频题目：  
+  - *"Extract Data from Log Files"*（正则表达式实战）  
+  - *"Design a Web Crawler"*（系统设计题）  
+
+---
+
+### **6. CheckiO（游戏化Python学习）**
+**网址**: [https://checkio.org/](https://checkio.org/)  
+**特点**：  
+- 通过游戏任务学习 **数据解析、API调用**  
+- 例如：从虚拟网站抓取商品价格并计算统计值  
+
+---
+
+### **7. Edabit（快速语法闯关）**
+**网址**: [https://edabit.com/](https://edabit.com/)  
+**适用场景**：  
+- 快速练习 **正则表达式、JSON数据处理** 等爬虫基础技能  
+- 题目示例：  
+  - *"Extract All DOM Links from HTML"*  
+  - *"Clean Scraped Data"*（去除乱码和空白符）  
+
+---
+
+### **8. CyberChef（数据清洗模拟器）**
+**网址**: [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/)  
+**用途**：  
+- 模拟爬虫数据清洗过程（如Base64解码、哈希破解）  
+- 适合处理 **加密数据、混淆JS代码**  
+
+---
+
+### **9. Kaggle（数据采集+分析结合）**
+**网址**: [https://www.kaggle.com/](https://www.kaggle.com/)  
+**实战路径**：  
+1. 用爬虫抓取数据集（如通过 `requests` + `pandas`）  
+2. 在Kaggle上完成数据分析任务  
+**推荐比赛**：`Web Scraping Challenges`  
+
+---
+
+### **10. 猿人学（国内反爬对抗平台）**
+**网址**: [http://match.yuanrenxue.com/](http://match.yuanrenxue.com/)  
+**硬核内容**：  
+- 专门针对 **JS逆向、字体加密、WebAssembly** 等反爬技术  
+- 提供企业级爬虫题目（如某电商价格数据抓取）  
+
+---
+
+### **附：爬虫学习路线建议**
+1. **基础阶段**：Codewars/Edabit → 掌握Python字符串处理、正则表达式  
+2. **爬虫专项**：ScrapingClub/猿人学 → 突破反爬限制  
+3. **高阶实战**：HackTheBox/Kaggle → 结合安全和数据分析  
+
+如果需要某个平台的详细闯关策略（如猿人学第6题JS逆向），可进一步探讨！ 🕷️
