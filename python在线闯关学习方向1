@@ -1,0 +1,63 @@
+1. Python官方学习平台（入门基础）
+网址: https://www.python.org/about/gettingstarted/
+
+特点: 官方基础教程，适合零基础学习者。
+
+2. Codecademy（交互式学习）
+网址: https://www.codecademy.com/learn/learn-python-3
+
+特点: 交互式学习Python基础，适合新手。
+
+3. LeetCode（算法与爬虫思维）
+网址: https://leetcode.com/
+
+特点: 算法题库，爬虫开发中常用算法（如字符串处理、树结构）可在此练习。
+
+4. HackerRank（Python挑战）
+网址: https://www.hackerrank.com/domains/tutorials/10-days-of-python
+
+特点: 分阶段Python题目，包含爬虫相关的数据处理挑战。
+
+5. Scrapy官方教程（爬虫框架实战）
+网址: https://docs.scrapy.org/en/latest/intro/tutorial.html
+
+特点: 学习Scrapy框架的官方实战教程，适合进阶。
+
+6. CodingBat（Python小练习）
+网址: https://codingbat.com/python
+
+特点: 小型Python题目，适合练手基础语法。
+
+7. Real Python（实战项目）
+网址: https://realpython.com/
+
+特点: 提供爬虫实战项目教程（需部分付费内容）。
+
+8. Exercism（社区驱动）
+网址: https://exercism.org/tracks/python
+
+特点: 社区提供反馈的Python练习平台。
+
+9. CheckiO（游戏化学习）
+网址: https://checkio.org/
+
+特点: 通过游戏关卡学习Python，趣味性强。
+
+10. Edabit（快速挑战）
+text
+- **网址**: [https://edabit.com/challenges/python3](https://edabit.com/challenges/python3)  
+- **特点**: 短平快的小挑战，适合碎片时间练习。
+爬虫专项推荐：
+爬虫伦理与实战：建议结合书籍《Python网络数据采集》（Ryan Mitchell） + 实际项目（如爬取公开API或模拟登录练习）。
+
+反爬对抗：可通过尝试爬取以下练习网站（允许爬虫）：
+
+http://books.toscrape.com/
+
+https://httpbin.org/
+
+
+
+
+
+建议从基础语法开始，逐步过渡到requests/BeautifulSoup/Scrapy，最后学习反爬策略（如User-Agent、IP轮询）。
